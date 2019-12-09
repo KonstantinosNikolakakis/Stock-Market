@@ -14,6 +14,6 @@ Description:
  The estimation is based on real data (finance.yahoo.com). 
  The estimated structure is presented in Tree_structure_estimate.pdf. 
 
- 2) Stock_Market_Noisy.m: Synthetic noise is added to the trend of the closing price. 
+ 2) Stock_Market_Noisy.m: Synthetic noise is added to the trend of the closing prices. 
  For a sufficient number of samples, structure estimation is feasible from noisy data as well. 
- The average number of incorrect edges of the estimated structure is provided in Average_number_of_mismatched_edges.pdf
+ The 3D plot of the average number of incorrect edges of the estimated structure is provided in Average_number_of_mismatched_edges.pdf
