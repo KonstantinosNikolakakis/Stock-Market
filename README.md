@@ -1,3 +1,7 @@
+#Stock-Market
+Structure estimation for stock market prices. Real and semi-synthetic data.
+
+
 Last revision: Dec 2019 (Matlab R2019b) Author: Konstantinos Nikolakakis
 
 The purpose of this code is to support the published paper: "Learning Tree Structures from Noisy Data", AIStats, 2019,
