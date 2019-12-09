@@ -1,4 +1,4 @@
-#Stock-Market
+# Stock-Market
 Structure estimation for stock market prices. Real and semi-synthetic data.
 
 
